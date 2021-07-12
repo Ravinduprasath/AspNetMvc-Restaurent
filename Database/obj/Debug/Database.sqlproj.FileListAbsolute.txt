@@ -1,0 +1,9 @@
+C:\Users\Ravindu Prasath\source\repos\OnlineFoodOrder\Database\bin\Debug\Database.dacpac
+C:\Users\Ravindu Prasath\source\repos\OnlineFoodOrder\Database\bin\Debug\Database.dll
+C:\Users\Ravindu Prasath\source\repos\OnlineFoodOrder\Database\bin\Debug\Database.pdb
+C:\Users\Ravindu Prasath\source\repos\OnlineFoodOrder\Database\obj\Debug\Database.dll
+C:\Users\Ravindu Prasath\source\repos\OnlineFoodOrder\Database\obj\Debug\Database.pdb
+C:\Users\Ravindu Prasath\source\repos\OnlineFoodOrder\Database\obj\Debug\Model.xml
+C:\Users\Ravindu Prasath\source\repos\OnlineFoodOrder\Database\obj\Debug\refactor.xml
+C:\Users\Ravindu Prasath\source\repos\OnlineFoodOrder\Database\obj\Debug\postdeploy.sql
+C:\Users\Ravindu Prasath\source\repos\OnlineFoodOrder\Database\obj\Debug\predeploy.sql
