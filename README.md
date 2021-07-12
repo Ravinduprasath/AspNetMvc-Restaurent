@@ -15,3 +15,11 @@ Asp.net core mvc web application
 ![chrome_gDfA34Sdnp](https://user-images.githubusercontent.com/76606140/125237207-eff23600-e302-11eb-856b-fede3cb374bc.png)
 ![chrome_9C8i7zWeiB](https://user-images.githubusercontent.com/76606140/125237219-f680ad80-e302-11eb-93f5-26dbf7f5116e.png)
 ![chrome_5BVdaRjEgF](https://user-images.githubusercontent.com/76606140/125237236-fda7bb80-e302-11eb-8790-f0eafc655022.png)
+
+<br/>
+<hr/>
+
+# Sql Data Base <br/>
+
+1) Restore FoodDatabase.bak Using SSMS<br/>
+2) Change Connection String In DataLibrary -> DataAccess -> GetCon()
